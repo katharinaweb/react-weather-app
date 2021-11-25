@@ -6,7 +6,7 @@ export default function Footer() {
     <div>
       This project was coded by Katharina Weberberger and is open-sourced on{" "}
       <a
-        href="https://github.com/katharinaweb/weather-app-project"
+        href="https://github.com/katharinaweb/react-weather-app"
         target="_blank"
         rel="noreferrer"
       >
