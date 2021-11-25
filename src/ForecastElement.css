@@ -1,0 +1,7 @@
+.App #forecast-max-temp {
+  font-weight: bold;
+}
+
+.App #forecast-image {
+  width: 60px;
+}
