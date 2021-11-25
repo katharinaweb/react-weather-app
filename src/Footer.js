@@ -14,7 +14,7 @@ export default function Footer() {
       </a>{" "}
       and{" "}
       <a
-        href="https://awesome-pasteur-927a17.netlify.app/"
+        href="https://fervent-raman-2d49f0.netlify.app/"
         target="_blank"
         rel="noreferrer"
       >
